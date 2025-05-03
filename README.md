@@ -3,7 +3,7 @@ This repository contains my project to generate 3D models from text and image in
 
 # 🧠 3D Object Generation with Shap-E
 
-This project uses [OpenAI’s Shap-E](https://github.com/openai/shap-e) model to generate 3D mesh models from either text prompts or images. It supports both types of inputs and outputs `.obj` and `.ply` files.
+This project uses [OpenAI’s Shap-E](https://github.com/openai/shap-e) model to generate 3D mesh models from either text prompts or images.
 
 ---
 
