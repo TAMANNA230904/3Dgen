@@ -1,0 +1,9 @@
+torch
+torchvision
+rembg
+opencv-python
+matplotlib
+trimesh
+pyrender
+Pillow
+onnxruntime
